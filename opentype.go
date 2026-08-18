@@ -11,10 +11,10 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/go-opentype/bidi"
 	"github.com/go-opentype/fonts"
 	otf "github.com/go-opentype/opentype"
 	"github.com/go-opentype/shape"
+	"github.com/go-typeset/bidi"
 )
 
 // Module is the package-level Ruby receiver: the `Opentype` module under rbgo.
