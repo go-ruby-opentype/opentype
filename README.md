@@ -2,7 +2,6 @@
 
 [![CI](https://github.com/go-ruby-opentype/opentype/actions/workflows/ci.yml/badge.svg)](https://github.com/go-ruby-opentype/opentype/actions/workflows/ci.yml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/go-ruby-opentype/opentype.svg)](https://pkg.go.dev/github.com/go-ruby-opentype/opentype)
-[![Go Report Card](https://goreportcard.com/badge/github.com/go-ruby-opentype/opentype)](https://goreportcard.com/report/github.com/go-ruby-opentype/opentype)
 
 The pure-Go, Ruby-runtime-independent core of the Ruby **`opentype`** gem — a
 complete text stack (font parsing, sized faces, complex-script shaping, the
