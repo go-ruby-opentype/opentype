@@ -6,5 +6,5 @@ require (
 	github.com/go-opentype/fonts v0.10.0
 	github.com/go-opentype/opentype v0.13.0
 	github.com/go-opentype/shape v0.5.0
-	github.com/go-typeset/bidi v0.3.0
+	github.com/go-typeset/bidi v0.3.1
 )
